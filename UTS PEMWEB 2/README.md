@@ -26,4 +26,8 @@ NexaGames adalah website katalog game berbasis web yang menampilkan data game se
 
 ## Video Demo
 
-LINK VIDEO DEMO DI SINI
+https://drive.google.com/drive/folders/1VBVuDadRn30YTyfAmk5dhATYCnvP6YPE?usp=drive_link
+
+## Video Demonstrasi
+
+https://drive.google.com/drive/folders/1VBVuDadRn30YTyfAmk5dhATYCnvP6YPE?usp=drive_link
